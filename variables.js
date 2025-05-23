@@ -19,6 +19,9 @@ var: Variables can be re-declared & updated. A global scope variable.
 let: Variables can not be re-declared but can be updated. A block scope variable. 
 const: Variables can not be redeclared or updated. A block scope variable. */
 
+
+// block scope defines the visibility and accessibility of variables within a specific block of code, 
+// typically enclosed by curly braces {}.
 FullName = "Niraj Tharu";
 age = 34;
 isBoy = true;
