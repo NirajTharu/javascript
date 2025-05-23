@@ -1,0 +1,56 @@
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by testing tools
+coverage/
+
+# Build output
+dist/
+build/
+
+# System files
+*.swp
+*.swo
+*.swn
+
+# Editor folders
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*.local
+
+# Parcel-bundler cache
+.cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# SvelteKit
+.svelte-kit/
