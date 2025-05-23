@@ -51,5 +51,3 @@ console.log(student);
 console.log(typeof student);
 console.log(student["age"]);
 console.log(student.fullName);
-
-//
