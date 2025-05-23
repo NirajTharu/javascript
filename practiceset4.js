@@ -6,7 +6,7 @@
 // 0 - 49, F
 
 {
-  let marks_obtain = prompt("Enter the marks you have obtain:");
+  let marks_obtain = prompt("Enter the marks you have obtain in total of 100:");
   if (marks_obtain >= 90 && marks_obtain <= 100) {
     console.log(marks_obtain, "You got grade A.");
   } else if (marks_obtain >= 70 && marks_obtain <= 89) {
