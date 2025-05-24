@@ -16,6 +16,6 @@
   } else if (marks_obtain >= 50 && marks_obtain <= 59) {
     console.log(marks_obtain, "You got grade D.");
   } else {
-    console.log(marks_obtain >= 0 && marks_obtain <= 49, "You got grade F.");
+    console.log("You got grade F.");
   }
 }
