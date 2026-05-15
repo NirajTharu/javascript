@@ -1,4 +1,5 @@
 // To read the details of a user from terminal
+// Added the npn readline-sync
 
 const userDetils = require("readline-sync");
 
